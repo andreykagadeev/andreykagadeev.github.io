@@ -1,0 +1,60 @@
+.header{
+	font-size: 20px;
+	line-height: 1.5;
+	margin: 60px auto;
+}
+
+.header span{
+	display: block;
+	
+}
+
+.section{
+	
+	padding: 30px 0;
+}
+
+
+.form{
+	border: 5px solid #2727d9;
+	padding: 30px 20px;
+}
+
+.video{
+	border: 2px solid red;
+}
+
+.form-header,.section-header{
+	font-size: 20px;
+	font-weight: 900;
+	margin-bottom: 20px;
+}
+
+.form input{
+	margin-bottom: 12px;
+}
+
+
+
+.form_btn{
+	background-color: #2727d9;
+	margin: 12px auto;
+}
+
+.feature{
+	margin: 60px auto;
+}
+
+.feature p{
+	margin-top: 20px;
+}
+
+.video{
+	margin-bottom: 30px; 
+}
+
+/*иконки с преимуществами поехали по высоте т.к. иконки 
+разные по высоте. Исправляем*/
+.feature-box{
+	height: 160px;
+}
